@@ -1,0 +1,9 @@
+@font-face {
+  font-family: aldhabi;
+  src: url('aldhabi.eot');
+  src: url('aldhabi.eot?#iefix') format('embedded-opentype'),
+       url('aldhabi.woff2') format('woff2'),
+       url('aldhabi.woff') format('woff'),
+       url('aldhabi.ttf') format('truetype');
+  font-weight: normal;
+}
